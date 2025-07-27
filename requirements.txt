@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+matplotlib
+seaborn
+ipykernel
+joblib
+lightgbm
+pydantic
+fastapi
+streamlit
